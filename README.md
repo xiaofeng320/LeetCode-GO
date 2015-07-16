@@ -1,0 +1,2 @@
+# LeetCode-GO
+LeetCode
